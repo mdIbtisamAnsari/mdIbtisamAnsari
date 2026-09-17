@@ -7,7 +7,7 @@ A Full-Stack & Mobile Developer who loves building fast, scalable web apps, cros
 ### 🚀 Featured Project
 
 #### 🌐 **[WarbLink](https://warblink.com)**
-A full-stack web application built with modular frontend and backend architectures, containerized using Docker, and deployed on an Azure Virtual Machine with automated CI/CD workflows.
+A full-stack web application built with modular frontend and backend architectures and deployed on an Azure Virtual Machine with automated CI/CD workflows.
 
 ---
 
