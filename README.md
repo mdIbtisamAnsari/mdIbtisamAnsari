@@ -1,6 +1,13 @@
 # Hi there, I'm Md Ibtisam Ansari 👋
 
-A passionate Full-Stack & Mobile Developer who loves building fast, scalable applications and exploring sleek developer tooling.
+A Full-Stack & Mobile Developer who loves building fast, scalable web apps, cross-platform mobile experiences, and exploring modern developer tooling.
+
+---
+
+### 🚀 Featured Project
+
+#### 🌐 **[WarbLink](https://warblink.com)**
+A full-stack web application built with modular frontend and backend architectures, containerized using Docker, and deployed on an Azure Virtual Machine with automated CI/CD workflows.
 
 ---
 
@@ -16,8 +23,11 @@ A passionate Full-Stack & Mobile Developer who loves building fast, scalable app
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### **Cloud & Infrastructure**
+#### **Cloud, DevOps & Infrastructure**
 ![Microsoft Azure](https://img.shields.io/badge/Azure_VMs-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### **IDEs & Code Editors**
 `VS Code` • `Vim` • `Zed` • `Sublime Text` • `IntelliJ IDEA`
@@ -27,6 +37,7 @@ A passionate Full-Stack & Mobile Developer who loves building fast, scalable app
 ### 🏆 Achievements
 
 * **Runner-up** — 48-Hour Game Jam 🎮
+
 
 
 
