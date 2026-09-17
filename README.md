@@ -28,14 +28,7 @@ A passionate Full-Stack & Mobile Developer who loves building fast, scalable app
 
 * **Runner-up** — 48-Hour Game Jam 🎮
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdIbtisamAnsari&show_icons=true&theme=tokyonight" alt="Md Ibtisam Ansari's Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdIbtisamAnsari&layout=compact&theme=tokyonight" alt="Top Languages" height="175" />
-</p>
 
 ---
 
